@@ -3,6 +3,6 @@ package com.mugua;
 public class Hello {
 
 	public static void main(String[] args){
-		System.out.println("hello mugua");
+		System.out.println("hello mugua Mater");
 	}
 }
